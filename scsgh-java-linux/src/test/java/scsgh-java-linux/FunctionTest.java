@@ -1,4 +1,4 @@
-package com.silasstrawn;
+package scsgh-java-linux;
 
 import com.microsoft.azure.functions.*;
 import org.mockito.invocation.InvocationOnMock;

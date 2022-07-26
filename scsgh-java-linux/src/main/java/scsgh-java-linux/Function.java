@@ -1,4 +1,4 @@
-package com.silasstrawn;
+package scsgh-java-linux;
 
 import com.microsoft.azure.functions.ExecutionContext;
 import com.microsoft.azure.functions.HttpMethod;

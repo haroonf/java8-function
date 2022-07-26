@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.silasstrawn</groupId>
-    <artifactId>silasstrawn-functions</artifactId>
+    <groupId>scsgh-java-linux</groupId>
+    <artifactId>scsgh-java-linux</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -14,7 +14,7 @@
         <java.version>1.8</java.version>
         <azure.functions.maven.plugin.version>1.19.0</azure.functions.maven.plugin.version>
         <azure.functions.java.library.version>2.0.1</azure.functions.java.library.version>
-        <functionAppName>silasstrawn-functions-20220726164457162</functionAppName>
+        <functionAppName>scsgh-java-linux-20220726165812974</functionAppName>
     </properties>
 
     <dependencies>
