@@ -1,4 +1,4 @@
-package scsgh-java-linux;
+package scsgh-java-windows;
 
 import com.microsoft.azure.functions.*;
 import org.mockito.invocation.InvocationOnMock;
