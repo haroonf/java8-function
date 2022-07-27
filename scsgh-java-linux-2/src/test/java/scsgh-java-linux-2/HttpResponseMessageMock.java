@@ -1,4 +1,4 @@
-package scsgh-java-linux;
+package scsgh-java-linux-2;
 
 import com.microsoft.azure.functions.*;
 
