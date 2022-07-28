@@ -1,4 +1,4 @@
-package scsgh-java-windows;
+package com.silasstrawn;
 
 import com.microsoft.azure.functions.*;
 

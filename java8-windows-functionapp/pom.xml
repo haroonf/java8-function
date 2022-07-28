@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>scsgh-java-windows</groupId>
-    <artifactId>scsgh-java-windows</artifactId>
+    <groupId>com.silasstrawn</groupId>
+    <artifactId>java8-windows-functionapp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -14,7 +14,7 @@
         <java.version>1.8</java.version>
         <azure.functions.maven.plugin.version>1.19.0</azure.functions.maven.plugin.version>
         <azure.functions.java.library.version>2.0.1</azure.functions.java.library.version>
-        <functionAppName>scsgh-java-windows-20220727142825436</functionAppName>
+        <functionAppName>java8-windows-functionapp-20220728102123802</functionAppName>
     </properties>
 
     <dependencies>
