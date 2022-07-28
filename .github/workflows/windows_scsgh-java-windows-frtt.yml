@@ -12,8 +12,8 @@ on:
 # 2. Change these variables for your configuration:
 env:
   AZURE_FUNCTIONAPP_NAME: 'scsgh-java-windows-frtt'      # set this to your function app name on Azure
-  POM_XML_DIRECTORY: '.'                     # set this to the directory which contains pom.xml file
-  POM_FUNCTIONAPP_NAME: 'scsgh-java-windows-frtt'        # set this to the function app name in your local development environment
+  POM_XML_DIRECTORY: 'java8-windows-functionapp'                     # set this to the directory which contains pom.xml file
+  POM_FUNCTIONAPP_NAME: 'java8-windows-functionapp-20220728102123802'        # set this to the function app name in your local development environment
   JAVA_VERSION: '8'                      # set this to the java version to use
 
 jobs:
